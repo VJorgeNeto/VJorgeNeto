@@ -9,7 +9,7 @@
 
 
 #### 🌱 Things I am currently working on: 
-- Take online courses on Machine Learning, R for data science, Python development and Java development.
+- Take online courses on Angular, JavaScript and Java development.
 
 
 #### :computer: Programming languages and tools: 
@@ -19,6 +19,5 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <br />
