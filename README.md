@@ -5,12 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/v-jorge-neto/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:valdionicejorgesilva@gmail.com)
 
- 
-
-
-#### 🌱 Things I am currently working on: 
-- Take online courses on Angular, JavaScript and Java development.
-
 
 #### :computer: Programming languages and tools: 
 
