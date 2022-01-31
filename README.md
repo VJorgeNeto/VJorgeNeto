@@ -1,7 +1,7 @@
 
 ### Eaí visitante, espero que esteja bem! 👋 <br>
 
-Minha área de estudo está voltada para o ecossistema da web no que tange desenvolvimento e segurança, portanto, além de código, possivelmente haverá conteúdos referente a vulnerabilidades web em meu portifólio.
+Minha área de estudo está voltada para o ecossistema da web no que tange desenvolvimento e segurança, portanto, além de código, possivelmente haverá conteúdos referente a vulnerabilidades web em meu portfólio.
 
 Matenho os estudos conciliados entre estas duas área, pois ao mesmo tempo que amo programar e ter o poder de criar algo, também sou fascinado por torná-lo cada vez mais seguro, testando a segurança dos meus projetos com vulnerabilidades conhecidas e simulações de possíveis ataques hackers.
 
