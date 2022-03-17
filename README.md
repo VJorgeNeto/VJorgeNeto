@@ -1,8 +1,6 @@
 
 ### Eaí visitante, espero que esteja bem! 👋 <br>
 
-Minha área de estudo está voltada para desenvolvimento e segurança, portanto, possivelmente haverá projetos referente a segurança da informação em meu portfólio.
-
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/v-jorge-neto/)
 
