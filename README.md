@@ -1,7 +1,7 @@
 
 ### Olá, espero que esteja bem! 👋 <br>
 
-Um pouco sobre mim... Estou em migração de carreira, de suporte e segurança(área na qual vinha estudando antes) para desenvolvimento.<br>
+<br>
 Estou estudando Javascript e TypeScript - front-end e back-end (Full Stack) com Node, Express, noSQL, React, hooks, Redux, Design Patterns<br>
 Como atualmente meu objetivo é conquistar minha primeira vaga como desenvolvedor, acredito que os projetos parecerão bem básicos, mas gostaria de enfatizar que estou dando o meu melhor para evoluir todos os dias! Um pouco de cada vez!<br>
 
