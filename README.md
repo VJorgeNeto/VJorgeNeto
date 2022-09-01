@@ -1,15 +1,14 @@
-
-### Olá, espero que esteja bem! 👋 <br>
-
 <br>
-Estou estudando Javascript e Python - Como atualmente meu objetivo é conquistar minha primeira vaga como desenvolvedor, acredito que os projetos parecerão bem básicos, mas gostaria de enfatizar que estou dando o meu melhor para evoluir todos os dias! Um pouco de cada vez!<br>
+I'm Pentester and Python Developer, welcome to my portfolio!!!
+<br>
 
-Abaixo, deixo algumas das tecnologias que atualmente estou estudando de forma focada e adquirindo experiência:<br>
+Stack and Tools:<br>
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <br>
 
 <br />
