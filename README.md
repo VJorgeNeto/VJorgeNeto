@@ -17,37 +17,37 @@ Construo e opero observabilidade em escala: os pipelines que transformam telemet
 
 ### 🧰 Stack
 
-**Observabilidade**
+**Observabilidade**  
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg" alt=""/> OpenTelemetry &nbsp;&nbsp;
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt=""/> Grafana LGTM <sub>(Mimir · Loki · Tempo · Alloy)</sub> &nbsp;&nbsp;
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt=""/> Prometheus &nbsp;&nbsp;
+<img height="20" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt=""/> Zabbix
 
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=grafana&logoColor=white)
-![Tempo](https://img.shields.io/badge/Tempo-1a7fe0?style=flat-square&logo=grafana&logoColor=white)
-![Mimir](https://img.shields.io/badge/Mimir-0c9f78?style=flat-square&logo=grafana&logoColor=white)
+**Plataforma**  
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt=""/> Kubernetes &nbsp;&nbsp;
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt=""/> Helm / Helmfile &nbsp;&nbsp;
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt=""/> Argo CD &nbsp;&nbsp;
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt=""/> Docker &nbsp;&nbsp;
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt=""/> Linux
 
-**Plataforma**
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm%20%2F%20Helmfile-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Argo CD](https://img.shields.io/badge/GitOps%20·%20Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Construção**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+**Construção**  
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt=""/> Go &nbsp;&nbsp;
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt=""/> Bash &nbsp;&nbsp;
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt=""/> Terraform
 
 ### 📦 Projetos em destaque
 - **[o11y-lab](https://github.com/VJorgeNeto/o11y-lab)** — stack LGTM + Alloy como código (Helmfile), construída do zero e organizada por nível de complexidade.
 - **[Zabbix8_APM](https://github.com/VJorgeNeto/Zabbix8_APM)** — laboratório de APM: dois serviços instrumentados, OpenTelemetry Collector e cenários de falha controlada em Kubernetes.
 - **[Scripts](https://github.com/VJorgeNeto/Scripts)** — automações de SRE para confiabilidade, provisionamento e observabilidade.
 
-### 📈 No momento
-- Construindo um laboratório de observabilidade do zero, de nível profissional: base → entrega via GitOps → instrumentação → pipelines de produção. _(veja o **o11y-lab**)_
+### 💼 Em produção
+Atuo com observabilidade em ambientes de produção de larga escala — sem expor clientes:
+- Instrumentação de serviços com **OpenTelemetry** (traces, métricas e logs) e correlação dos três sinais.
+- Pipelines de telemetria **multi-tenant**, com dashboards e **SLOs como código**.
+- Monitoramento de **milhares de ativos**, alertística e resposta a incidentes em plantão.
+
+### 🌱 No momento
+- Aprofundando **engenharia de pipeline de telemetria em escala** e mantendo um laboratório de referência. _(veja o **o11y-lab**)_
 - A caminho da certificação **OpenTelemetry Certified Associate (OTCA)**.
 
 <div align="center">
