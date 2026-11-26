@@ -23,23 +23,4 @@ Construo e opero observabilidade em escala: os pipelines que transformam telemet
 
 **Construção:** Go · Bash · Terraform
 
-### 📦 Projetos em destaque
-- **[o11y-lab](https://github.com/VJorgeNeto/o11y-lab)** — stack LGTM + Alloy como código (Helmfile), construída do zero e organizada por nível de complexidade.
-- **[Zabbix8_APM](https://github.com/VJorgeNeto/Zabbix8_APM)** — laboratório de APM: dois serviços instrumentados, OpenTelemetry Collector e cenários de falha controlada em Kubernetes.
-- **[Scripts](https://github.com/VJorgeNeto/Scripts)** — automações de SRE para confiabilidade, provisionamento e observabilidade.
-
-### 💼 Em produção
-Atuo com observabilidade em ambientes de produção de larga escala:
-- Coleta e instrumentação com **OpenTelemetry Collector** e **Grafana Alloy**, enviando métricas, logs e traces para **Mimir, Loki e Tempo**.
-- Pipelines **multi-tenant**, correlação dos três sinais, dashboards e **SLOs como código**.
-- Monitoramento de **milhares de ativos** (Zabbix / Prometheus), alertística e resposta a incidentes em plantão.
-
-### 🌱 No momento
-- Aprofundando **engenharia de pipeline de telemetria em escala** e mantendo um laboratório de referência. _(veja o **o11y-lab**)_
-- A caminho da certificação **OpenTelemetry Certified Associate (OTCA)**.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Vamos%20conversar-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-s-neto/)
-
 </div>
