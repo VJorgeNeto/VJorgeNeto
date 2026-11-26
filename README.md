@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c9f78,100:1a7fe0&height=170&section=header&text=Jorge%20Neto&fontColor=ffffff&fontSize=44&desc=Engenheiro%20de%20Observabilidade%20%C2%B7%20SRE&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Jorge Neto — Engenheiro de Observabilidade · SRE" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c9f78,100:1a7fe0&height=220&section=header&text=Jorge%20Neto&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Engenheiro%20de%20Observabilidade%20%C2%B7%20SRE&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Jorge Neto — Engenheiro de Observabilidade · SRE" />
 
 **Pipelines de telemetria em escala** — OpenTelemetry · Grafana LGTM · Go
 
