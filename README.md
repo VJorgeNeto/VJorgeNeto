@@ -52,9 +52,6 @@ Atuo com observabilidade em ambientes de produção de larga escala — sem expo
 
 <div align="center">
 
-<br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VJorgeNeto&show_icons=true&hide_border=true&hide=stars&title_color=0c9f78&icon_color=1a7fe0&text_color=808a9b&bg_color=00000000" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VJorgeNeto&layout=compact&hide_border=true&langs_count=8&title_color=0c9f78&text_color=808a9b&bg_color=00000000" alt="Linguagens" />
+[![LinkedIn](https://img.shields.io/badge/Vamos%20conversar-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-s-neto/)
 
 </div>
