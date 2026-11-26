@@ -30,9 +30,9 @@ Construo e opero observabilidade em escala: os pipelines que transformam telemet
 
 ### 💼 Em produção
 Atuo com observabilidade em ambientes de produção de larga escala:
-- Instrumentação de serviços com **OpenTelemetry** (traces, métricas e logs) e correlação dos três sinais.
-- Pipelines de telemetria **multi-tenant**, com dashboards e **SLOs como código**.
-- Monitoramento de **milhares de ativos**, alertística e resposta a incidentes em plantão.
+- Coleta e instrumentação com **OpenTelemetry Collector** e **Grafana Alloy**, enviando métricas, logs e traces para **Mimir, Loki e Tempo**.
+- Pipelines **multi-tenant**, correlação dos três sinais, dashboards e **SLOs como código**.
+- Monitoramento de **milhares de ativos** (Zabbix / Prometheus), alertística e resposta a incidentes em plantão.
 
 ### 🌱 No momento
 - Aprofundando **engenharia de pipeline de telemetria em escala** e mantendo um laboratório de referência. _(veja o **o11y-lab**)_
