@@ -29,7 +29,7 @@ Construo e opero observabilidade em escala: os pipelines que transformam telemet
 - **[Scripts](https://github.com/VJorgeNeto/Scripts)** — automações de SRE para confiabilidade, provisionamento e observabilidade.
 
 ### 💼 Em produção
-Atuo com observabilidade em ambientes de produção de larga escala — sem expor clientes:
+Atuo com observabilidade em ambientes de produção de larga escala:
 - Instrumentação de serviços com **OpenTelemetry** (traces, métricas e logs) e correlação dos três sinais.
 - Pipelines de telemetria **multi-tenant**, com dashboards e **SLOs como código**.
 - Monitoramento de **milhares de ativos**, alertística e resposta a incidentes em plantão.
