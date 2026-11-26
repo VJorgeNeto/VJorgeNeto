@@ -17,23 +17,11 @@ Construo e opero observabilidade em escala: os pipelines que transformam telemet
 
 ### 🧰 Stack
 
-**Observabilidade**  
-<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg" alt=""/> OpenTelemetry &nbsp;&nbsp;
-<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt=""/> Grafana LGTM <sub>(Mimir · Loki · Tempo · Alloy)</sub> &nbsp;&nbsp;
-<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt=""/> Prometheus &nbsp;&nbsp;
-<img height="20" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt=""/> Zabbix
+**Observabilidade:** OpenTelemetry · Grafana LGTM (Mimir · Loki · Tempo · Alloy) · Prometheus · Zabbix · Pyroscope
 
-**Plataforma**  
-<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt=""/> Kubernetes &nbsp;&nbsp;
-<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt=""/> Helm / Helmfile &nbsp;&nbsp;
-<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt=""/> Argo CD &nbsp;&nbsp;
-<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt=""/> Docker &nbsp;&nbsp;
-<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt=""/> Linux
+**Plataforma:** Kubernetes · Helm / Helmfile · Argo CD (GitOps) · Docker · Linux
 
-**Construção**  
-<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt=""/> Go &nbsp;&nbsp;
-<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt=""/> Bash &nbsp;&nbsp;
-<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt=""/> Terraform
+**Construção:** Go · Bash · Terraform
 
 ### 📦 Projetos em destaque
 - **[o11y-lab](https://github.com/VJorgeNeto/o11y-lab)** — stack LGTM + Alloy como código (Helmfile), construída do zero e organizada por nível de complexidade.
