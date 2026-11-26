@@ -5,7 +5,6 @@
 **Pipelines de telemetria em escala** — OpenTelemetry · Grafana LGTM · Go
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jorge--s--neto-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-s-neto/)
-![Location](https://img.shields.io/badge/São%20José%20do%20Rio%20Preto-SP,%20Brasil-0c9f78?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
